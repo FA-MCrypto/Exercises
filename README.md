@@ -1,5 +1,5 @@
 # Exercises
-This repo contains all the exercises for the following book:
+This repo contains all the **exercises** for the following book:
 * **In English:**
   - [George Drosatos](https://www.drosatos.info), [Ioannis Mavridis](https://www.uom.gr/en/mavridis) and [Konstantinos Rantos](https://www.linkedin.com/in/rantos/). Foundations and Applications of Modern Cryptography. Critical Reader: Dimitris Gritzalis, [Kallipos - Open Academic Editions](https://repository.kallipos.gr/), Greek Edition, chapters 15, pages 401, 2024.
 * **In Greek:**
